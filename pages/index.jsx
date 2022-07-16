@@ -74,7 +74,7 @@ export default function Home() {
             textAlign: "center",
           }}
         >
-          🏀 Krause House Community Dashboard 🏀
+          ✖️ Pen-X Community Dashboard ✖️
         </h1>
       </div>
 
